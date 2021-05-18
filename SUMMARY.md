@@ -1,5 +1,9 @@
 # Table of contents
 
-* [test](README.md)
-* [Untitled](untitled.md)
+* [Initial page](README.md)
+
+## API
+
+* [Untitled](api/untitled.md)
+* [Untitled](api/untitled-1.md)
 
