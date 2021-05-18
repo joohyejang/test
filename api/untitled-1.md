@@ -6,7 +6,7 @@ Get Cakes
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+This endpoint allows you to get free cakes. 테스트용 문장 추가.
 {% endapi-method-description %}
 
 {% api-method-spec %}
